@@ -1,0 +1,176 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+  position: right # position of the sidebar : left or right
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
+
+  # Profile information
+  name: Panayiota Valianti
+  tagline: PhD Candidate/Researcher
+  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+  # Sidebar links
+  email: valianti.panayiota@ucy.ac.cy
+  #phone: 012 345 6789
+  #timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  #citizenship:
+ # website: # Include the full website URL, including "http://" or "https://".
+ # linkedin: alandoe
+ # xing: alandoe
+ # github: jekyll
+ # telegram: # add your nickname without '@' sign
+ # gitlab:
+ # bitbucket:
+ # bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
+ # twitter: '@jekyllrb'
+ # stack-overflow: # Number/Username, e.g. 123456/alandoe
+#  codewars:
+#  goodreads: # Number-Username, e.g. 123456-alandoe
+#  mastodon: # Please include your full Mastodon link here.
+#  hackerrank: # Please provide your HackerRank username.
+#  leetcode: # Please provide your LeetCode username.
+  #pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+
+  languages:
+    title: Languages
+    info:
+    - idiom: Greek
+      level: Native
+
+    - idiom: English
+      level: Fluent
+
+    - idiom: Italian
+      level: Basic
+
+  interests:
+    title: Interests
+    info:
+    - item: Tennis
+      link:
+
+
+    - item: Pottery
+      link:
+
+
+    - item: Drawing
+      link:
+
+
+career-profile:
+  title: Career Profile
+  summary: |
+    Panayiota Valianti received a Diploma in Electrical and Computer Engineering from the National Technical University of Athens (NTUA), Greece, in 2018. She is currently working toward the PhD degree at the Department of Electrical and Computer Engineering, University of Cyprus and is also a Researcher at the KIOS Research and Innovation Center of Excellence, University of Cyprus. She has published several papers in international journals and IEEE conferences regarding the design of counter-drone systems. Her PhD thesis work investigates novel decision and control techniques to counteract the operation of rogue drones over sensitive facilities.
+
+education:
+  title: Education
+  info:
+  - degree: PhD in Electrical Engineering
+    university: University of Cyprus
+    time: 2019 - 
+    details: |
+    
+  - degree: five-year Diploma Degree in Electrical and Computer Engineering (Major in Information Technology)
+    university: National Technical University of Athens
+    time: 2013 - 2018
+    details: |
+
+experiences:
+  title: Experiences
+  info:
+  - role: Special Scientist (Researcher)
+    time: 2019 - Present
+    company: KIOS Research and Innovation Center of Excellence, University of Cyprus
+    details: |
+      Conducting research that focuses on the design of counter-drone systems.
+    
+  - role: Teaching Assistant
+    time: 2019 - Present
+    company: University of Cyprus
+    details: |
+      Teaching assistant for several courses of the university:
+        - “ECE 213: Computer Organization and Microprocessors Laboratory” (Spring 2023 and 2024)
+        - “CEE401/CEE500: Software Development for Engineering Applications” (Spring 2024)
+        - “CEE 199: Introduction to Engineering Programming” (Fall 2023)
+        - “ECE 464: Mobile Computing Systems” (Fall 2022)
+        - “ECE 318: Programming Principles for Engineers” (Fall 2021, 2020 and 2019)
+
+
+publications:
+  title: Publications
+  intro: |
+  papers:
+  - title: Cooperative Search and Track of Rogue Drones using Multiagent Reinforcement Learning
+    link: "https://ieeexplore.ieee.org/abstract/document/10831848/"
+    authors: P. Valianti, K. Malialis, P. Kolios and G. Ellinas
+    conference: 2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Kuching, Malaysia, 2024, pp. 2091-2096.
+
+  - title: Cooperative Multi-agent Jamming of Multiple Rogue Drones using Reinforcement Learning
+    link: "https://ieeexplore.ieee.org/document/10547296"
+    authors: P. Valianti, K. Malialis, P. Kolios and G. Ellinas
+    conference: IEEE Transactions on Mobile Computing, vol. 23, no. 12, pp. 12345-12359, Dec. 2024.
+
+  - title: Multi-Agent Reinforcement Learning for Multiple Rogue Drone Interception
+    link: "https://ieeexplore.ieee.org/abstract/document/10156047"
+    authors: P. Valianti, K. Malialis, P. Kolios and G. Ellinas
+    conference: 2023 International Conference on Unmanned Aircraft Systems (ICUAS), Warsaw, Poland, 2023, pp. 1037-1044.
+
+  - title: Energy-Aware Tracking and Jamming Rogue UAVs Using a Swarm of Pursuer UAV Agents
+    link: "https://ieeexplore.ieee.org/abstract/document/9793848"
+    authors: P. Valianti, P. Kolios and G. Ellinas
+    conference: IEEE Systems Journal, vol. 17, no. 1, pp. 1524-1535, March 2023.
+
+  - title: Multi-Agent Coordinated Close-in Jamming for Disabling a Rogue Drone
+    link: "https://ieeexplore.ieee.org/abstract/document/9363641"
+    authors: P. Valianti, S. Papaioannou, P. Kolios and G. Ellinas
+    conference: IEEE Transactions on Mobile Computing, vol. 21, no. 10, pp. 3700-3717.
+
+  - title: Multi-Agent Coordinated Interception of Multiple Rogue Drones
+    link: "https://ieeexplore.ieee.org/abstract/document/9322489"
+    authors: P. Valianti, S. Papaioannou, P. Kolios and G. Ellinas
+    conference: GLOBECOM 2020 - 2020 IEEE Global Communications Conference, Taipei, Taiwan, 2020, pp. 1-6.
+
+  - title: "HorizonBlock: Implementation of an Autonomous Counter-Drone System"
+    link: "https://ieeexplore.ieee.org/abstract/document/9213871"
+    authors: N. Souli, R. Makrigiorgis, A. Anastasiou, A. Zacharia, P. Petrides, A. Lazanas, P. Valianti, P. Kolios and G. Ellinas
+    conference: 2020 International Conference on Unmanned Aircraft Systems (ICUAS), Athens, Greece, 2020, pp. 398-404.
+
+    
+    
+projects:
+  title: Projects
+  intro: >
+  assignments:
+  - title: Lab-on-demand Web App
+    link: "https://dspace.lib.ntua.gr/xmlui/bitstream/handle/123456789/47474/panayiota_valianti_diploma_thesis.pdf?sequence=1"
+    tagline: "A web app designed and implemented for my undergraduate thesis that enables the creation and configuration of a virtual network topology in a simple and fast way. Several tools were utilized, including jQuery, Bootstrap, HTML, and AJAX, for the client-side of the website and Java, KVM, libvirt API, and ExpectIt API, for the server-side."
+
+
+#skills:
+#  title: Skills &amp; Proficiency
+
+#  toolset:
+#  - name: Python & Django
+#    level: 98%
+
+#  - name: Javascript & jQuery
+#    level: 98%
+
+#  - name: Angular
+#    level: 98%
+
+#  - name: HTML5 & CSS
+#    level: 95%
+
+#  - name: Ruby on Rails
+#    level: 85%
+
+#  - name: Sketch & Photoshop
+#    level: 60%
+
+footer: >
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
