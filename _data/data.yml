@@ -147,13 +147,13 @@ publications:
 
     
     
-projects:
-  title: Projects
-  intro: >
-  assignments:
-  - title: Lab-on-demand Web App
-    link: "https://dspace.lib.ntua.gr/xmlui/bitstream/handle/123456789/47474/panayiota_valianti_diploma_thesis.pdf?sequence=1"
-    tagline: "A web app designed and implemented for my undergraduate thesis that enables the creation and configuration of a virtual network topology in a simple and fast way. Several tools were utilized, including jQuery, Bootstrap, HTML, and AJAX, for the client-side of the website and Java, KVM, libvirt API, and ExpectIt API, for the server-side."
+#projects:
+#  title: Projects
+#  intro: >
+#  assignments:
+#  - title: Lab-on-demand Web App
+#    link: "https://dspace.lib.ntua.gr/xmlui/bitstream/handle/123456789/47474/panayiota_valianti_diploma_thesis.pdf?sequence=1"
+#    tagline: "A web app designed and implemented for my undergraduate thesis that enables the creation and configuration of a virtual network topology in a simple and fast way. Several tools were utilized, including jQuery, Bootstrap, HTML, and AJAX, for the client-side of the website and Java, KVM, libvirt API, and ExpectIt API, for the server-side."
 
 
 #skills:
