@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Panayiota Valianti
-  tagline: PhD Candidate/Researcher
+  tagline: IT Systems Architect
   avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -46,19 +46,19 @@ sidebar:
     - idiom: Italian
       level: Basic
 
-  interests:
-    title: Interests
-    info:
-    - item: Tennis
-      link:
-
-
-    - item: Pottery
-      link:
-
-
-    - item: Drawing
-      link:
+#  interests:
+#    title: Interests
+#    info:
+#    - item: Tennis
+#      link:
+#
+#
+#   - item: Pottery
+#      link:
+#
+#
+#   - item: Drawing
+#      link:
 
 
 career-profile:
@@ -71,7 +71,7 @@ education:
   info:
   - degree: PhD in Electrical Engineering
     university: University of Cyprus
-    time: 2019 - 
+    time: 2019 - 2025
     details: |
     
   - degree: five-year Diploma Degree in Electrical and Computer Engineering (Major in Information Technology)
@@ -82,14 +82,19 @@ education:
 experiences:
   title: Experiences
   info:
+  - role: IT Systems Architect
+    time: 2026 - Present
+    company: KIOS Research and Innovation Center of Excellence, University of Cyprus
+    details: |
+      Conducting research that focuses on the design of counter-drone systems.
   - role: Special Scientist (Researcher)
-    time: 2019 - Present
+    time: 2019 - 2026
     company: KIOS Research and Innovation Center of Excellence, University of Cyprus
     details: |
       Conducting research that focuses on the design of counter-drone systems.
     
   - role: Teaching Assistant
-    time: 2019 - Present
+    time: 2019 - 2024
     company: University of Cyprus
     details: |
       Teaching assistant for several courses of the university:
